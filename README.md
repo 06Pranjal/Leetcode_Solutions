@@ -8,6 +8,7 @@ Contains all questions of leetcode
 | ------- |
 | [0001-two-sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0724-find-pivot-index](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,4 +21,8 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0001-two-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
