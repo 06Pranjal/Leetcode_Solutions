@@ -9,6 +9,7 @@ Contains all questions of leetcode
 | [0001-two-sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
@@ -24,6 +25,7 @@ Contains all questions of leetcode
 | ------- |
 | [0001-two-sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -33,4 +35,8 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
