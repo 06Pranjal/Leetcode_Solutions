@@ -19,11 +19,11 @@ public class Solution {
     //     System.out.println("false");
     // }
         HashSet<Integer> set=new HashSet<>();
-        for(int i=0;i<arr.length;i++){
-            if(set.contains(arr[i])){
+        for(int num:arr){
+            if(set.contains(num)){
                 return true;
             }
-            set.add(arr[i]);
+            set.add(num);
         }
         return false;
 
