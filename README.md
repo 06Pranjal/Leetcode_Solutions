@@ -9,6 +9,7 @@ Contains all questions of leetcode
 | [0001-two-sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
@@ -44,4 +45,9 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
