@@ -14,6 +14,7 @@ Contains all questions of leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -34,6 +35,7 @@ Contains all questions of leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
