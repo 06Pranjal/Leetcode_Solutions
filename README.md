@@ -19,6 +19,7 @@ Contains all questions of leetcode
 | [0283-move-zeroes](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ Contains all questions of leetcode
 | [0088-merge-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1051-height-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +73,8 @@ Contains all questions of leetcode
 | [0088-merge-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
