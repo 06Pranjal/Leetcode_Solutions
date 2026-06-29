@@ -7,6 +7,7 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -61,6 +62,7 @@ Contains all questions of leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Divide and Conquer
 |  |
@@ -69,6 +71,7 @@ Contains all questions of leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0283-move-zeroes) |
