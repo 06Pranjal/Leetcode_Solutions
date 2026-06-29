@@ -11,6 +11,7 @@ Contains all questions of leetcode
 | [0015-3sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
