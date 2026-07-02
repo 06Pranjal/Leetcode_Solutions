@@ -23,6 +23,7 @@ Contains all questions of leetcode
 | [0283-move-zeroes](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@ Contains all questions of leetcode
 | [0088-merge-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1710-maximum-units-on-a-truck](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -76,6 +78,7 @@ Contains all questions of leetcode
 | [0011-container-with-most-water](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
@@ -90,6 +93,7 @@ Contains all questions of leetcode
 | [0088-merge-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
