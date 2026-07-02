@@ -26,6 +26,7 @@ Contains all questions of leetcode
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Contains all questions of leetcode
 | [0455-assign-cookies](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1710-maximum-units-on-a-truck](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Contains all questions of leetcode
 | [0011-container-with-most-water](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
