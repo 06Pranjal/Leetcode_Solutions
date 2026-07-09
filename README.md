@@ -42,6 +42,7 @@ Contains all questions of leetcode
 | [0074-search-a-2d-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -132,4 +133,5 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
