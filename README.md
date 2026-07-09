@@ -37,6 +37,7 @@ Contains all questions of leetcode
 | [0035-search-insert-position](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -116,4 +117,8 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
