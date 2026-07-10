@@ -10,9 +10,6 @@ class Solution {
             i++;
             j--;
         }
-        for(i=0;i<j;i++){
-            System.out.println(s[i]);
-        }
         
     }
 }
