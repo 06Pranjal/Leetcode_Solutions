@@ -8,6 +8,7 @@ Contains all questions of leetcode
 | ------- |
 | [0001-two-sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -126,6 +127,7 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0709-to-lower-case) |
@@ -145,4 +147,8 @@ Contains all questions of leetcode
 | ------- |
 | [0069-sqrtx](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
