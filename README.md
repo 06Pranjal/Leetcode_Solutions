@@ -34,6 +34,7 @@ Contains all questions of leetcode
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1710-maximum-units-on-a-truck](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@ Contains all questions of leetcode
 | [0344-reverse-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
 | ------- |
