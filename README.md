@@ -61,6 +61,7 @@ Contains all questions of leetcode
 | ------- |
 | [0001-two-sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0771-jewels-and-stones](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
@@ -127,6 +128,7 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0344-reverse-string) |
@@ -145,6 +147,7 @@ Contains all questions of leetcode
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 ## Trie
