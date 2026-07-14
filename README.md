@@ -66,6 +66,7 @@ Contains all questions of leetcode
 | [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
 |  |
@@ -80,6 +81,7 @@ Contains all questions of leetcode
 | [0088-merge-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0948-bag-of-tokens) |
@@ -142,6 +144,7 @@ Contains all questions of leetcode
 | [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0709-to-lower-case) |
@@ -170,4 +173,8 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1291-sequential-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
