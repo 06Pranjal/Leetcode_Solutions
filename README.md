@@ -64,6 +64,7 @@ Contains all questions of leetcode
 | [0012-integer-to-roman](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
 |  |
@@ -77,6 +78,7 @@ Contains all questions of leetcode
 | [0015-3sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0948-bag-of-tokens) |
@@ -135,6 +137,7 @@ Contains all questions of leetcode
 | [0014-longest-common-prefix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
