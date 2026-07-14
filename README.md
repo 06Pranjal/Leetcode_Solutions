@@ -65,6 +65,7 @@ Contains all questions of leetcode
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
 |  |
@@ -128,6 +129,7 @@ Contains all questions of leetcode
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1051-height-checker) |
 ## String
 |  |
@@ -139,6 +141,7 @@ Contains all questions of leetcode
 | [0151-reverse-words-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0709-to-lower-case) |
