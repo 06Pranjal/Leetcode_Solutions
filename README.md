@@ -62,6 +62,7 @@ Contains all questions of leetcode
 | [0001-two-sum](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
+| [0205-isomorphic-strings](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -143,6 +144,7 @@ Contains all questions of leetcode
 | [0014-longest-common-prefix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0383-ransom-note) |
