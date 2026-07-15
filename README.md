@@ -66,6 +66,7 @@ Contains all questions of leetcode
 | [0219-contains-duplicate-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
@@ -132,6 +133,7 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1051-height-checker) |
 ## String
 |  |
@@ -144,6 +146,7 @@ Contains all questions of leetcode
 | [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -177,4 +180,8 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
