@@ -3,7 +3,7 @@ class Solution {
 
         int low = 0;
         int high = 0;
-        String n = "";
+        HashSet<Character> set=new HashSet<>();
 
         int k = 0;
 
@@ -11,14 +11,14 @@ class Solution {
 
             char ch = s.charAt(high);
 
-            if (n.indexOf(ch) == -1) {
-                n = n + ch;
+            if (!set.contains(ch)) {
+                set.add(ch);
 
-                k = Math.max(k, n.length());
+                k = Math.max(k, set.size());
 
                 high++;
             } else {
-                n = n.substring(1);
+                set.remove(s.charAt(low));
                 low++;
             }
         }
