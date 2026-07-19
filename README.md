@@ -37,6 +37,7 @@ Contains all questions of leetcode
 | [1480-running-sum-of-1d-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1710-maximum-units-on-a-truck](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Contains all questions of leetcode
 | [0012-integer-to-roman](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Trie
 |  |
 | ------- |
@@ -197,4 +199,8 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
