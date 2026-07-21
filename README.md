@@ -108,6 +108,7 @@ Contains all questions of leetcode
 | [0053-maximum-subarray](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -185,6 +186,7 @@ Contains all questions of leetcode
 | [0013-roman-to-integer](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Trie
 |  |
@@ -206,4 +208,12 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
