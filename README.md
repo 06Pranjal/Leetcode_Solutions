@@ -134,6 +134,7 @@ Contains all questions of leetcode
 | [0151-reverse-words-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -162,6 +163,7 @@ Contains all questions of leetcode
 | [0242-valid-anagram](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
