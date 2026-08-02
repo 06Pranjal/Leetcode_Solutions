@@ -31,6 +31,7 @@ Contains all questions of leetcode
 | [0724-find-pivot-index](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@ Contains all questions of leetcode
 | ------- |
 | [0048-rotate-image](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,4 +228,8 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
