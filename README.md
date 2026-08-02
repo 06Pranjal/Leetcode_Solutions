@@ -16,6 +16,7 @@ Contains all questions of leetcode
 | [0035-search-insert-position](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -59,6 +60,7 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
@@ -231,5 +233,6 @@ Contains all questions of leetcode
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
