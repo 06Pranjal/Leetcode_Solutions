@@ -153,6 +153,7 @@ Contains all questions of leetcode
 | [0557-reverse-words-in-a-string-iii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -242,4 +243,8 @@ Contains all questions of leetcode
 | ------- |
 | [0054-spiral-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
