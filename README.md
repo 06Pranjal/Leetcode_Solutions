@@ -30,6 +30,7 @@ Contains all questions of leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -88,6 +89,7 @@ Contains all questions of leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
@@ -202,6 +204,7 @@ Contains all questions of leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Interactive
 |  |
 | ------- |
@@ -276,4 +279,8 @@ Contains all questions of leetcode
 | ------- |
 | [0141-linked-list-cycle](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
