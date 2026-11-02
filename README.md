@@ -283,4 +283,8 @@ Contains all questions of leetcode
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/06Pranjal/Leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
